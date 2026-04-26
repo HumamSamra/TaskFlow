@@ -2,7 +2,6 @@
 
 TaskFlow is a simple and lightweight task management web application that helps users organize and track their daily tasks efficiently.
 
----
 
 ## ✨ Features
 
@@ -12,7 +11,6 @@ TaskFlow is a simple and lightweight task management web application that helps 
 - 🗑️ Clear all tasks with confirmation  
 - 💾 Persistent storage using **localStorage**  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +21,6 @@ TaskFlow is a simple and lightweight task management web application that helps 
 - **Font Awesome**
 - **SweetAlert2**
 
----
 
 ## ⚙️ How It Works
 
@@ -35,7 +32,6 @@ TaskFlow is a simple and lightweight task management web application that helps 
   - Completion status
 - UI updates dynamically using JavaScript and DOM manipulation
 
----
 
 ## ▶️ Getting Started
 
@@ -48,20 +44,17 @@ cd taskflow
 3. Run the app:
 - Open `index.html` in your browser
 
----
 
 ## 📸 Screenshots
 
 Add screenshots of your homepage and about page here.
 
----
 
 ## 📌 About
 
 TaskFlow is designed to be fast, simple, and user-friendly.  
 It does not require login or external databases, making it easy to use for anyone.
 
----
 
 ## 🔮 Future Improvements
 
@@ -70,13 +63,11 @@ It does not require login or external databases, making it easy to use for anyon
 - Task categories and priorities  
 - Drag & drop task management  
 
----
 
 ## 📄 License
 
 This project is open-source and available under the MIT License.
 
----
 
 ## 👤 Author
 
