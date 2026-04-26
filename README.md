@@ -25,20 +25,6 @@ TaskFlow is a simple and lightweight task management web application that helps 
 
 ---
 
-## 📁 Project Structure
-
-TaskFlow/
-│
-├── index.html
-├── about.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-└── images/
-
----
-
 ## ⚙️ How It Works
 
 - Tasks are stored locally using **localStorage**
